@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-remote-desktop"
+tier = 3
+description = "Remote desktop VNC and RDP client and screen sharing bridge inspired by Gliff"
+contracts = ['remote-desktop-client', 'vnc-bridge', 'rdp-session-manager']
+upstream_inspirations = ['https://github.com/omacom/gliff']

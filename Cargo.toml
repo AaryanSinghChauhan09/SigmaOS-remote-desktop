@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos_remote_desktop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
