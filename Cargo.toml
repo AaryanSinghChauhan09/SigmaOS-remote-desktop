@@ -2,5 +2,9 @@
 name = "sigmaos_remote_desktop"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "SigmaOS remote-desktop component inspired by Linux Mint / Omarchy / Arch Linux."
 
-[dependencies]
+[lib]
+name = "sigmaos_remote_desktop"
+path = "src/lib.rs"
